@@ -1,0 +1,22 @@
+{
+    "token": "",
+    "messageToRoll": {
+        "messageID": "780045554687541298",
+        "channelID": "780044640362430484"
+    },
+    "outputChannel": "717800513500086332",
+    "prizes": [
+        {
+            "name": "<:nitro:782539176376532993> Discord Nitro Classic",
+            "count": 3
+        },
+        {
+            "name": "<:boost:782539295562924052> Discord Nitro Games",
+            "count": 2
+        },
+        {
+            "name": "<:upgrade:711127764761313342> 6 months of ManageInvite Premium",
+            "count": 1
+        }
+    ]
+}
